@@ -4,7 +4,8 @@ def main(number):
     Args:
         number (int): integer
 
-    Returns:
-        int: the absolute value of a "number"
-    """
-    return
+    Returns:int
+     """
+    number=21
+    return number
+print (int("number"))
